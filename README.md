@@ -33,8 +33,6 @@ Portfolio/
 │── images/
 └── README.md
 ```
-# Preview
-![Portfolio Screenshot](images/portfolio-Profile.jpg)
 ## 📧 Contact
 
 - **Name:** Nofal Mushtaq
