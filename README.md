@@ -33,15 +33,8 @@ Portfolio/
 │── images/
 └── README.md
 ```
-
-## 📸 Preview
-
-Add a screenshot of your portfolio here.
-
-Example:
-
-![Portfolio Screenshot](images/portfolio-preview.png)
-
+# Preview
+![Portfolio Screenshot](images/portfolio-Profile.jpg)
 ## 📧 Contact
 
 - **Name:** Nofal Mushtaq
