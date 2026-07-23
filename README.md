@@ -29,8 +29,6 @@ Hi, I'm **Nofal Mushtaq**, a Computer Science student at **Superior University**
 Portfolio/
 │── index.html
 │── style.css
-│── script.js
-│── images/
 └── README.md
 ```
 ## 📧 Contact
@@ -44,7 +42,6 @@ Portfolio/
 - Add dark mode
 - Improve animations
 - Add project filtering
-- Integrate contact form with backend
 - Add downloadable resume
 - Optimize performance and accessibility
 
